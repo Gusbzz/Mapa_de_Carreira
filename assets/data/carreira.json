@@ -1,78 +1,94 @@
 {
   "seo": {
-    "title": "Sarah Lima | Mapa de Carreira em Tecnologia",
-    "description": "Mapa de carreira de Sarah Lima, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
-    "author": "Sarah Lima",
+    "title": "Gustavo Bozzo | Mapa de Carreira em Tecnologia",
+    "description": "Mapa de carreira de Gustavo Bozzo, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
+    "author": "Gustavo Bozzo",
     "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
   },
   "profile": {
-    "name": "Sarah Lima",
-    "headline": "Educacao, Web e Gestao de TI",
-    "photo": "assets/images/profile.jpg",
-    "photoAlt": "Foto profissional de Sarah Lima",
-    "summary": "Tenho experiencia em desenvolvimento web, educacao e gestao de tecnologia. Participei de projetos que transformaram ideias em solucoes digitais e agora organizo meu mapa de carreira com foco em aprendizagem continua, colaboracao e impacto profissional.",
-    "cvUrl": "#"
+    "name": "Gustavo Bozzo",
+    "headline": "Desenvolvedor Back-End",
+    "photo": "assets/images/profile.jpeg",
+    "photoAlt": "Foto profissional de Gustavo Bozzo",
+    "summary": "Apaixonado por tecnologia desde pequeno, onde já queria saber como os computadores e vídeo-game funcionavam por completo. Atualmente estou cursando Desenvolvimento Web Java no Instituto PROA, com foco na formação Full-Stack. Tenho experiência com HTML, CSS, JavaScript e React focados no desenvolvimento Front-End. Além disso, possuo conhecimento em Java, Python, Spring Boot e MySQL para o desenvolvimento Back-End. Estou cursando superior em Ánalise e Desenvolvimento de Sistemas na universidade Anhembi Morumbi.",
+    "cvUrl": "../assets/componente/Currículo Gustavo Bozzo 2026.pdf#"
   },
   "contacts": [
     {
-      "label": "sarah.lima@example.com",
-      "url": "mailto:sarah.lima@example.com"
+      "label": "gusbzz56@gmail.com",
+      "url": "mailto:gusbzz56@gmail.com"
     },
     {
-      "label": "linkedin.com/in/sarahlima",
-      "url": "https://www.linkedin.com/in/sarahlima"
+      "label": "linkedin.com/in/gustavobozzo",
+      "url": "https://www.linkedin.com/in/gustavobozzo/"
     },
     {
-      "label": "github.com/sarahlima",
-      "url": "https://github.com/sarahlima"
+      "label": "github.com/Gusbzz",
+      "url": "https://github.com/Gusbzz"
     }
   ],
   "careerSteps": [
     {
-      "title": "Desenvolvedora Junior",
-      "description": "Consolidar fundamentos de desenvolvimento web, versionamento, acessibilidade, logica de programacao e boas praticas de comunicacao em equipe.",
+      "title": "Desenvolvedor Back-End Junior",
+      "description": "Responsável por executar tarefas de escopo definido dentro de sistemas existentes, com orientação do time. O trabalho envolve leitura e compreensão de código legado, entendimento das camadas da aplicação e entrega de funcionalidades pequenas com qualidade — testes passando, PR documentado e sem regressão no que já está em produção.",
       "softSkills": [
         "Comunicacao clara para pedir ajuda e registrar aprendizados.",
         "Organizacao para estudar, praticar e acompanhar tarefas.",
-        "Curiosidade para investigar problemas e testar solucoes."
+        "Atenção a detalhes (nomear variável, identar código).",
+        "Curiosidade genuína pra aprender sozinho",
+        "Ler e entender código que não escreveu"
       ],
       "roadmap": [
-        "HTML semantico",
-        "CSS responsivo",
-        "JavaScript",
         "Git e GitHub",
-        "Acessibilidade"
+        "Java 17+ POO",
+        "Spring Boot",
+        "SQL",
+        "Python",
+        "Cloud",
+        "Docker"
       ]
     },
     {
-      "title": "Desenvolvedora Pleno",
-      "description": "Atuar com mais autonomia, participar de decisoes tecnicas e entregar funcionalidades com qualidade, testes e documentacao.",
+      "title": "Desenvolvedor Back-End Pleno",
+      "description": "Responsável pela entrega de features completas com autonomia, desde o entendimento do requisito até o deploy. Participa ativamente de refinamentos, propõe soluções técnicas, realiza code review com análise crítica e apoia o desenvolvimento de profissionais júniors. Espera-se capacidade de diagnosticar e resolver problemas em produção de forma independente.",
       "softSkills": [
-        "Responsabilidade sobre entregas e prazos combinados.",
-        "Colaboracao em revisoes de codigo e planejamento.",
-        "Capacidade de explicar escolhas tecnicas para diferentes publicos."
+        "Autonomia para tomar decisões sem pedir permissão a cada passo.",
+        "Comunicação clara com produto e design.",
+        "Capacidade de fazer code review construtivo.",
+        "Proatividade para identificar dívida técnica",
+        "Adaptabilidade a mudança de requisito no meio da sprint"
       ],
       "roadmap": [
-        "React",
-        "Node.js",
-        "APIs REST",
-        "Testes automatizados",
-        "Banco de dados"
+        "Spring Security",
+        "Testes de integração e Testcontainers",
+        "Docker Compose",
+        "AWS",
+        "Banco de dados",
+        "GitHub Actions",
+        "Kafka",
+        "Migrations"
       ]
     },
     {
-      "title": "Lideranca tecnica",
-      "description": "Contribuir para padroes de arquitetura, orientar pessoas em desenvolvimento e apoiar a tomada de decisao tecnica com base em dados e contexto.",
+      "title": "Sênior / Tech Lead Back-End",
+      "description": "Responsável por decisões técnicas de alto impacto, definição de arquitetura e estabelecimento de padrões que orientam o time. Atua como referência técnica em situações críticas, conduz alinhamentos com produto e negócio, e garante que as escolhas de sistema sejam documentadas e justificadas. A liderança técnica inclui o desenvolvimento ativo dos profissionais plenos e júniors do time.",
       "softSkills": [
-        "Mentoria com escuta ativa e feedback construtivo.",
-        "Priorizacao entre impacto, custo, risco e aprendizado.",
-        "Visao sistemica sobre produto, pessoas e tecnologia."
+        "Mentoria com escuta ativa e feedback construtivo que gera autonomia.",
+        "Liderança técnica sem autoridade hierárquica formal.",
+        "Visao sistemica sobre produto, pessoas e tecnologia.",
+        "Gestão de conflito técnico entre membros do time",
+        "Comunicação executiva — falar de tech para não-técnicos",
+        "Visão de produto além do backlog de sprint"
       ],
       "roadmap": [
         "Arquitetura de software",
-        "Cloud",
+        "System Design",
+        "Seguranca",
+        "Kubernetes",
         "Observabilidade",
-        "Seguranca"
+        "Terraform",
+        "FastAPI avançado",
+        "ML em produção"
       ]
     }
   ],
@@ -86,7 +102,7 @@
         },
         {
           "name": "React",
-          "level": 70
+          "level": 80
         }
       ]
     },
@@ -94,8 +110,12 @@
       "title": "Backend e dados",
       "skills": [
         {
-          "name": "Node.js e APIs",
-          "level": 65
+          "name": "Java, Python",
+          "level": 75
+        },
+        {
+          "name": "APIs",
+          "level": 50
         },
         {
           "name": "SQL",
@@ -105,23 +125,20 @@
     }
   ],
   "otherSkills": [
-    "Git",
-    "Comunicacao",
-    "Documentacao",
-    "Code review"
+    "Git/Github",
+    "Comunicação",
+    "Apresentação corporativa",
+    "Trabalho em equipe",
+    "Design"
   ],
   "languages": [
     {
-      "name": "Portugues",
+      "name": "Português",
       "level": "Nativo"
     },
     {
-      "name": "Ingles",
-      "level": "Tecnico"
-    },
-    {
-      "name": "Espanhol",
-      "level": "Profissional"
+      "name": "Inglês",
+      "level": "Intermediário"
     }
   ]
 }
